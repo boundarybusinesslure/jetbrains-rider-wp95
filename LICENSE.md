@@ -1,4 +1,4 @@
-# 
+# smart Visual Studio for PC plugins is the best Visual Studio for PC plugins with GUI-interface and history-tracking. Safe, reliable, and optimized for maximum performance.
 
 
 
